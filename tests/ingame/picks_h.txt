@@ -1,0 +1,5 @@
+pickfree Kh-29L
+pickfree ZAB-500
+pickfree R-77
+pickfree MSP-418K
+pickfree ME SAPHEI

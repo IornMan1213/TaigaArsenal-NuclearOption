@@ -1,0 +1,1 @@
+include fire.txt MiG29 picks_c.txt c fire_c.txt

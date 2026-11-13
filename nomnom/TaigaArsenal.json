@@ -1,0 +1,24 @@
+{
+  "id": "TaigaArsenal",
+  "displayName": "Taiga Arsenal",
+  "description": "50 Soviet and Russian munitions modelled at their real sizes, with the real weapons' mass, warheads, motors and seekers: GSh-30-1 cannon rounds, R-27 / R-74M / R-77 missiles, Kh-25 / Kh-29 / Kh-31 / Kh-38 / Kh-59 air-to-surface missiles, KAB, FAB and RBK bombs, rocket pods and a jamming pod. Offered on the MiG-29 Fulcrum, MiG-29SMT and Su-30VXN Gandiva mods when they are installed.",
+  "tags": [
+    "mod",
+    "weapons",
+    "blueprinter"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/IornMan1213/TaigaArsenal-NuclearOption/blob/main/README.md"
+    }
+  ],
+  "authors": [
+    "IornMan1213"
+  ],
+  "isClientOrServer": "Both",
+  "githubOwner": "IornMan1213",
+  "githubRepoName": "TaigaArsenal-NuclearOption",
+  "autoUpdateArtifacts": "True",
+  "artifacts": []
+}

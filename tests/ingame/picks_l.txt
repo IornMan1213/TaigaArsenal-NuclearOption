@@ -1,0 +1,3 @@
+pickfree Kh-31P
+pickfree KMGU-2
+pickfree S-5M x32

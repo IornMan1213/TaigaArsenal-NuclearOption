@@ -1,0 +1,1 @@
+include fire.txt MiG29SMT picks_d.txt d fire_d.txt

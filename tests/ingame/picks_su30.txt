@@ -1,0 +1,6 @@
+pickfree OFZT
+pickfree Kh-31A
+pickfree KAB-500S-E
+pickfree R-77
+pickfree MSP-418K
+pickfree R-74M

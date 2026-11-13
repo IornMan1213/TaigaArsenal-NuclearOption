@@ -1,0 +1,5 @@
+pickfree S-8KOM x20
+pickfree Kh-25ML
+pickfree R-74M
+pickfree FAB-500
+pickfree OFZT
