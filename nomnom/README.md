@@ -1,8 +1,8 @@
 # NOMNOM
 
 `TaigaArsenal.json` is the listing for [NOMNOM](https://github.com/KopterBuzz/NOMNOM), the mod registry used by NOMM
-(`modManifests/TaigaArsenal.json` there). It marks the mod as work in progress: "(WIP)" in the name, the `work in progress` tag,
-and pre-release artifacts (GitHub releases are published as pre-releases while the mod is WIP).
+(`modManifests/TaigaArsenal.json` there). Its description starts with "Work in progress." while the mod is still being developed;
+releases are published as full GitHub releases.
 
 NOMNOM picks up new GitHub releases by itself and takes each release's first asset, `TaigaArsenal_<version>.zip`. When the mod
-leaves WIP, publish full releases and update the name and tags in the NOMNOM listing with a pull request there.
+leaves WIP, update the description in the NOMNOM listing with a pull request there.
