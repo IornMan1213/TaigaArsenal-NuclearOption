@@ -1,5 +1,9 @@
 # Taiga Arsenal
 
+> **Work in progress.** Taiga Arsenal is still being developed: stores, stations and tuning may change between versions,
+> and some loadouts have rough edges (see [Known limitations](#known-limitations)). Bug reports are welcome in
+> [Issues](https://github.com/IornMan1213/TaigaArsenal-NuclearOption/issues).
+
 Soviet and Russian munitions for [Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/): 50 stores
 modelled at their real sizes, with the real weapons' mass, warheads, motors and seekers. Cannon rounds, air-to-air and
 air-to-surface missiles, free-fall, guided and cluster bombs, rocket pods and a jamming pod.
